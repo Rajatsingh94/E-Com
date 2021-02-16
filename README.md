@@ -1,2 +1,2 @@
-# E_Com
+# E-Com
 Ecommerce Project based on Angular and FIrebase
